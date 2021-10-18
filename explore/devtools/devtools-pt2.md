@@ -1,0 +1,1 @@
+The bug was that the input are type of string and we are using + operator which only concatenates the two inputs rather than adding their numeric value together.
